@@ -1,0 +1,17 @@
+
+def smallestelem():
+    for i in range(1,k):
+        l.remove(min(l))
+
+
+l=['96','85','37','78','56','46','94','22','11']
+l.sort()
+print("l=",l)
+
+n=print("n =",len(l))
+
+k=int(input("value of k="))
+
+smallestelem()
+
+print(k,"th smallest element= ", min(l))
